@@ -1,0 +1,15 @@
+.todo{
+background-color: white;
+border-left: 2px solid green;
+padding: 0 15px;
+display: flex
+}
+.todo-toggle{
+
+}
+.todo-text{
+    flex:1;
+}
+.todo-del{
+    
+}
